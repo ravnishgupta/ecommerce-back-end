@@ -1,4 +1,6 @@
-# ecommerce-back-end
+# E-Commerce Back-End
+Build the back end for an e-commerce site. Take Express.js API and configure it to use Sequelize to interact with a MySQL database.
+
 
 ## Create and seed database
 https://user-images.githubusercontent.com/34320760/167266922-2224c48d-3550-4615-8d51-5b44b0ae3720.mp4
@@ -14,4 +16,11 @@ https://user-images.githubusercontent.com/34320760/167266968-180f9ada-5611-4e55-
 
 ## Tag API requests
 https://user-images.githubusercontent.com/34320760/167266983-3fe1f05f-6415-43a6-a8b1-4bad316f7c8f.mp4
+
+## Technologies Used
+- Javascript
+- Express.JS
+- Node.JS
+- MySQL2 package
+- 
 
